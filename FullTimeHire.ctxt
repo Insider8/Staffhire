@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FullTimeHire
+comment1.params=vNum\ desig\ jType\ sal\ hours
+comment1.target=FullTimeHire(int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=newSalary
+comment2.target=void\ setSalary(int)
+comment3.params=name\ date\ qual\ appointBy
+comment3.target=void\ hireStaff(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ displayDetails()
+numComments=5
